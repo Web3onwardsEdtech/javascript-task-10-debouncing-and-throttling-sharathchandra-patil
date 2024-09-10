@@ -1,0 +1,12 @@
+{
+  "name": "fetch-user-data-task",
+  "version": "1.0.0",
+  "description": "Task to fetch user data using Promises and Fetch API.",
+  "main": "fetchUserData.js",
+  "scripts": {
+    "start": "node fetchUserData.js"
+  },
+  "author": "NFThing",
+  "license": "ISC",
+  "dependencies": {}
+}
